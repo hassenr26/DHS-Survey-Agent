@@ -1,0 +1,49 @@
+{
+  "home": {
+    "home_id": "brooklyn_center",
+    "home_name": "New Life Care - Brooklyn Center",
+    "license_number": "[REQUIRES CONFIRMATION]",
+    "capacity": "[REQUIRES CONFIRMATION]"
+  },
+
+  "address": {
+    "street": "4913 Winchester Ln",
+    "city": "Brooklyn Center",
+    "state": "MN",
+    "zip": "55429"
+  },
+
+  "residents": {
+    "count": "3",
+    "list": [
+      {
+        "resident_id": "BC-Resident1",
+        "full_name": "Kurt J Hartinger",
+        "date_of_birth": "09/04/1989"
+      },
+      {
+        "resident_id": "BC-Resident2",
+        "full_name": "Dajhae Marie Jones",
+        "date_of_birth": "02/11/1995"
+      },
+      {
+        "resident_id": "BC-Resident3",
+        "full_name": "Curtis J Mahlum",
+        "date_of_birth": "09/17/1976"
+      }
+    ]
+  },
+
+  "site_contacts": {
+    "on_call_contact": {
+      "name": "Abdusalam Hassen",
+      "phone": "763-257-7118"
+    }
+  },
+
+  "emergency": {
+    "emergency_meeting_location": "Across the street on the sidewalk, far enough away to remain out of the hazard zone"
+  },
+
+  "overrides": {}
+}

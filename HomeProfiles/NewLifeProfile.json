@@ -1,0 +1,37 @@
+{
+  "organization": {
+    "name": "New Life Care LLC",
+    "program_type": "MN 144G",
+    "assisted_living_director": {
+      "name": "Abdusalam Hassen",
+      "phone": "763-257-7118",
+      "email": "Abdulsalam33@gmail.com"
+    }
+  },
+  "clinical_support": {
+    "nurse_practitioner": {
+      "name": "Nuredin Ibrahim",
+      "phone": "651-235-4484",
+      "email": "Nuredin68@gmail.com",
+      "availability": "As Needed"
+    }
+  },
+  "vendors": {
+    "pharmacy": {
+      "name": "Genoa Pharmacy",
+      "phone": "612-392-0515",
+      "address": "11010 Prairie Lakes Dr #350, Eden Prairie, MN 55344"
+    }
+  },
+  "defaults": {
+    "staffing_model": {
+      "shifts": ["Morning", "Evening", "Overnight"],
+      "staff_per_shift": "1"
+    },
+    "document_storage": {
+      "policies_location": "Office binder / shared drive",
+      "logs_location": "Shared drive /Logs",
+      "training_location": "Shared drive /Training"
+    }
+  }
+}
